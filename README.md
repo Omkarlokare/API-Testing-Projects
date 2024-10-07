@@ -20,3 +20,5 @@
 - newman run "Insert copied link Via API from POSTMAN" -r cli,htmlextra
 - Generate a Report.
  
+## Screenshot of Newman Report.
+![image](https://github.com/user-attachments/assets/05f7bb3a-03ec-4372-814a-5d3feb68511c)
