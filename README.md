@@ -8,7 +8,7 @@
 - Envelope - information you need to wrap and open and close.
 
 ## Reference Commandline 
-## Go the Terminal
+## Go to terminal
 - node --version
 - npm --version
 
