@@ -1,5 +1,5 @@
 # Manual API Testing Project
-## SOAP
+## Web Service SOAP
 - SOAP stands for **S**imple **O**bject **A**ccess **P**rotocol.
 - Client -> Server - give me the data
 - SOAP is based on XML.
